@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780177293173",
+    "project_id": "ithraa-webview-notifications",
+    "storage_bucket": "ithraa-webview-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780177293173:android:14f53c7b81979780b8dd3c",
+        "android_client_info": {
+          "package_name": "com.ithraa.wbvwshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780177293173-1npk7ln55sahjt18l7m4eilb0l1u860t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2UrFSL78houyhkLq3bn72RtuyTr9n8Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780177293173-1npk7ln55sahjt18l7m4eilb0l1u860t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
