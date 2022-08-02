@@ -1,6 +1,5 @@
-# ithraashop
-
-Ithraa Wordpress Shop
+# Weebee
+Flutter Webview App
 
 ## Getting Started
 
